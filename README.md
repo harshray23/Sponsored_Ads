@@ -1,7 +1,7 @@
 # Nero Chain Service Request System
 
 <p align="center">
-  <img src="./my-stellar-app/src/assets/logo.png" width="300" alt="Service Request Logo">
+  <img src="./my-nero-app/src/assets/logo.png" width="300" alt="Service Request Logo">
 </p>
 
 ![Nero Chain](https://img.shields.io/badge/Nero_Chain-EVM-purple?style=for-the-badge&logo=ethereum) ![Solidity](https://img.shields.io/badge/Solidity-0.8.20-black?style=for-the-badge&logo=solidity) ![React](https://img.shields.io/badge/React-18.2-blue?style=for-the-badge&logo=react) ![Vite](https://img.shields.io/badge/Vite-5.0-purple?style=for-the-badge&logo=vite) ![GSAP](https://img.shields.io/badge/GSAP-3.12-88CE02?style=for-the-badge&logo=greensock)
@@ -38,12 +38,12 @@ Follow these instructions to run the Service Request dApp locally.
 - **MetaMask Wallet**: Install the [MetaMask browser extension](https://metamask.io/) and configure it for the Nero Chain Testnet.
 
 ### 2. Installation
-Clone the repository and install the dependencies inside the `my-stellar-app` directory:
+Clone the repository and install the dependencies inside the `my-nero-app` directory:
 
 ```bash
 git clone https://github.com/your-username/service-request.git
 cd service-request
-cd my-stellar-app
+cd my-nero-app
 npm install
 ```
 
@@ -65,7 +65,7 @@ This runs the Vite compiler to produce hyper-optimized, minified vanilla assets 
 
 ## 🏗 System Architecture
 
-<img src="./my-stellar-app/src/assets/diagram-export-2-4-2026-11_59_10-pm.png" height="1000" width="90%" alt="system architecture logo">
+<img src="./my-nero-app/src/assets/diagram-export-2-4-2026-11_59_10-pm.png" height="1000" width="90%" alt="system architecture logo">
 
 Our dApp follows a perfectly decoupled, 5-layer decentralized architecture:
 
@@ -86,7 +86,7 @@ Our dApp follows a perfectly decoupled, 5-layer decentralized architecture:
 
 ```
 service-request/
-├── my-stellar-app/              # Core UI and Logic directory
+├── my-nero-app/                 # Core UI and Logic directory
 │   ├── src/                     # React application sources
 │   │   ├── LandingPage.jsx      # High-fidelity entrance page
 │   │   ├── App.jsx              # Mission control SPA router
