@@ -12,11 +12,6 @@ CONTRACT_ADDRESS = "0x8d2695a6a0f8cf928f76E0407C166ea6aeA691C0"
 
 ## 📸 Visual Tour
 
-### Application Flow & Demonstration
-![Demo Recording](./assets/demo_recording.webp)
-
-### Landing Page
-![Landing Page](./assets/landing_page.png)
 
 ### Main Dashboard & Request Creation
 ![Main Dashboard](./assets/dashboard_main.png)
@@ -64,8 +59,6 @@ npm run build
 This runs the Vite compiler to produce hyper-optimized, minified vanilla assets inside the `/dist` output directory.
 
 ## 🏗 System Architecture
-
-<img src="./my-nero-app/src/assets/diagram-export-2-4-2026-11_59_10-pm.png" height="1000" width="90%" alt="system architecture logo">
 
 Our dApp follows a perfectly decoupled, 5-layer decentralized architecture:
 
