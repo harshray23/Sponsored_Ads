@@ -7,7 +7,6 @@
 ![Nero Chain](https://img.shields.io/badge/Nero_Chain-EVM-purple?style=for-the-badge&logo=ethereum) ![Solidity](https://img.shields.io/badge/Solidity-0.8.20-black?style=for-the-badge&logo=solidity) ![React](https://img.shields.io/badge/React-18.2-blue?style=for-the-badge&logo=react) ![Vite](https://img.shields.io/badge/Vite-5.0-purple?style=for-the-badge&logo=vite) ![GSAP](https://img.shields.io/badge/GSAP-3.12-88CE02?style=for-the-badge&logo=greensock)
 
 A next-generation decentralized application (dApp) built on the Nero Chain using EVM Smart Contracts (Solidity). This interface enables users to seamlessly create work orders, accept and submit deliverables, and manage final on-chain approvals with zero centralized infrastructure.
-
 CONTRACT_ADDRESS = "0x8d2695a6a0f8cf928f76E0407C166ea6aeA691C0"
 
 ## 📸 Visual Tour
